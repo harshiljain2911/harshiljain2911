@@ -23,6 +23,6 @@ I’m a BTech ECE student who loves building clean, useful, and modern web exper
 Add your stats card here if you want.
 
 ## Contact
-- GitHub: @harshiljain2911
-- LinkedIn: https://www.linkedin.com/in/harshil-jain-543940317/
-- Portfolio: your-portfolio-link
+- GitHub: [Harshil Jain](@harshiljain2911)
+- LinkedIn: [Harshil Jain](https://www.linkedin.com/in/harshil-jain-543940317/)
+- Portfolio: [Portfolio](https://harshil-os-alpha.vercel.app/)
