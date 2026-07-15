@@ -6,7 +6,7 @@ I’m a BTech ECE student who loves building clean, useful, and modern web exper
 - 🔭 Currently working on: Full-stack and frontend projects
 - 🌱 Learning: React, backend, and system design
 - ⚡ Interested in: Web development, UI/UX, and problem solving
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: kotaharshil2906@gmail.com.com
 
 ## Tech Stack
 - Languages: C++, JavaScript, Python
@@ -15,14 +15,14 @@ I’m a BTech ECE student who loves building clean, useful, and modern web exper
 - Tools: Git, GitHub, Figma, VS Code
 
 ## Featured Projects
-- **Project 1** — short one-line description
-- **Project 2** — short one-line description
-- **Project 3** — short one-line description
+- **Project 1** — SupportPilot AI-SaaS
+- **Project 2** — Harshil/OS-Personal Portfolio Website
+
 
 ## GitHub Stats
 Add your stats card here if you want.
 
 ## Contact
 - GitHub: @harshiljain2911
-- LinkedIn: your-linkedin
+- LinkedIn: https://www.linkedin.com/in/harshil-jain-543940317/
 - Portfolio: your-portfolio-link
