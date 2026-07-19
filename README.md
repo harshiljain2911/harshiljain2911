@@ -25,4 +25,4 @@ Add your stats card here if you want.
 ## Contact
 - GitHub: [Harshil Jain](@harshiljain2911)
 - LinkedIn: [Harshil Jain](https://www.linkedin.com/in/harshil-jain-543940317/)
-- Portfolio: [Portfolio](https://harshil-os-alpha.vercel.app/)
+- Portfolio: [Portfolio](https://harshiljain.online/)
