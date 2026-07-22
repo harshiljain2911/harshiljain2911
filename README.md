@@ -25,7 +25,7 @@ ship more and hand-wave the parts I didn't think through.
 
 - B.Tech Electronics & Communication Engineering, LNMIIT Jaipur
 - Building a multi-tenant SaaS product with database-enforced tenant isolation
-- 550+ solved DSA problems across two long-running practice repositories
+- 250+ solved DSA problems across two long-running practice repositories
 - Primary interests: backend architecture, PostgreSQL, and system design
 
 ## Featured Projects
