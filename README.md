@@ -83,7 +83,7 @@ and maintain. Content is stored as schema-validated JSON and edited through a pu
 panel; an AI assistant answers questions about my work by retrieving from that same content, with
 automatic fallback across providers if one is unavailable.
 
-**[Live site](https://harshiljain.online) · [Source](https://github.com/harshiljain2911/Harshil-OS)**
+**[Site](https://harshiljain.online) · [Source](https://github.com/harshiljain2911/Harshil-OS)**
 
 | Aspect | Detail |
 |---|---|
@@ -91,7 +91,7 @@ automatic fallback across providers if one is unavailable.
 | **Frontend** | React, with lazy-loaded heavy chunks and a keyboard-driven interface |
 | **Notable engineering** | A grounded AI assistant with keyword retrieval, SSE streaming, citations, and automatic fallback across OpenRouter, OpenAI, Gemini, and Anthropic; a production contact pipeline with rate limiting and a durable fallback path if email delivery fails |
 | **Stack** | React, FastAPI, Tailwind CSS, optional MongoDB |
-| **Status** | Deployed and live |
+| **Status** | Frontend deployed; backend API currently offline |
 
 ### Data Structures & Algorithms
 
